@@ -1,0 +1,72 @@
+/*font-family: 'Shadows Into Light', cursive;
+font-family: 'Indie Flower', cursive;*/
+
+
+#contenidos{
+	width:1360px;
+	/*bajar*/
+
+	height: 225px;
+	margin: relative;
+	color: blue;
+	size: 1000px;
+
+
+
+	/*banner*/
+
+
+	
+}
+body{
+	background-image: url(../img/logo.jpg);
+	background-repeat:no-repeat;
+	background-size: auto;
+	/*pie*/
+	
+	width: 1360px;
+	height: 5200px;
+
+	<!-- van los menus... --> 
+
+
+}
+
+
+ul{
+	list-style: none;
+	width: 1000px;
+	height: 40px;
+	/*posicion menu*/
+	float: left;
+
+}
+li{ 
+	float:left;
+	width:200px;
+	/*tbajar logo*/
+
+	height: 100px;
+
+}
+/*tamaño letra_pie*/
+p {
+	font-size: 20px;
+	font-weight: normal;
+	color: #333;
+}
+
+footer{
+	width: 1000px;
+	height: 100px;
+	background: #003f5e;
+	float: center;
+	margin-top: 17px;
+	/*borde*/
+	border-radius: 50px 20px 50px 10px;
+	font-size: 20px;
+	text-align: center;
+
+
+}
+
