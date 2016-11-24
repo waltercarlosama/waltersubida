@@ -9,7 +9,7 @@ font-family: 'Indie Flower', cursive;*/
 	height: 225px;
 	margin: relative;
 	color: blue;
-	size: 1000px;
+	size: 10px;
 
 
 
@@ -22,7 +22,7 @@ body{
 	background-image: url(../img/logo.jpg);
 	background-repeat:no-repeat;
 	background-size: auto;
-	height: 2px;
+
 	/*pie*/
 	
 	width: 1360px;
